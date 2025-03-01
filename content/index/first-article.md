@@ -4,7 +4,7 @@ Category: Coding
 Tags: Pelican
 Slug: first-article
 Authors: yusabari
-Summary: Pelican을 이용한 블로그
+Summary: 테스트 게시글
 
 #테스트 용 게시글
 
