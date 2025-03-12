@@ -1,7 +1,7 @@
 Title: 기대되는 국산 TCG 들
 Date: 2025-03-13 03:12
 Category: TCG
-Tags: 
+Tags: 루멘 콘덴서, 니벨아레나, 스타라이트TCG
 Slug: first-article
 Authors: yusabari
 Summary: 최근 기대되는 국산 TCG 들을 정리해보았습니다.
