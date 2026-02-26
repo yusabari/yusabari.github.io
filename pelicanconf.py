@@ -59,7 +59,7 @@ LINKS = (
     ("home", "https://yusabari.com", "fontawesome"),
 #    ("velog", "", "image"),
     ("github", "https://github.com/yusabari", "image"),
-    ("gmail", "mailto:yumesaki.kr@gmail.com", "image"),
+    ("gmail", "mailto:yusabari@yusabari.com", "image"),
     ("twitter", "https://twitter.com/yusabari", "image")
 )
 
