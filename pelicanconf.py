@@ -2,7 +2,7 @@
 AUTHOR = "yusabari"
 AUTHOR_INFO = {
     "GITHUB": "yusabari",
-    "DESCRIPTION": "she/her🏳️‍⚧️"
+    "DESCRIPTION": ""
 }
 SITENAME = 'yusabari blog'
 SITEURL = ""
