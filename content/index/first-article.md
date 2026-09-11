@@ -4,13 +4,8 @@ Category: Coding
 Tags: Pelican
 Slug: first-article
 Authors: yusabari
-Summary: Pelican을 이용한 블로그
+Summary: 테스트 게시글
 
-#테스트 제목
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+# 테스트 용 게시글
 
-![테스트]({attach}images/test.png)
+테스트 용 게시글입니다. 내용이 언제든 변경 될 수 있습니다.
